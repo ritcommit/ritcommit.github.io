@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Ritesh%20Sharma&fontColor=FFFF">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Ritesh%20Sharma&fontColor=FFFF" alt="Header">
 
 I’m a Firmware Lead Engineer with over a decade of experience in embedded systems. I specialize in designing scalable firmware architectures and solutions for Automotive and Industrial embedded platforms. I am a graduate with Master's degree in `Industrial Automation and Robotics` from [MIT Manipal, Karnataka Campus](https://www.manipal.edu). In addition to the perfect grades and a  **Gold Medal** the college gave me for my academic excellence, it set me on a journey of solving real world problems one microcontroller at a time. In this journey I have worked with companies having successful presence in EV infrastructure, Smart Metering, Industrial Automation and Robotics domains.
 
@@ -14,7 +14,7 @@ I’m a Firmware Lead Engineer with over a decade of experience in embedded syst
 
 [Modelicon Infotech](https://www.modelicon.in)
 
-[Robotech Labs](http://robotechlabs.com)
+[Robotech Labs](https://robotechlabs.com)
 
 Currently, I lead firmware development for high-power EV battery management systems and charging infrastructure at [Clean Electric](https://www.cleanelectric.in), working across the full stack—from low-level microcontroller drivers to system architecture, communication protocols, and cloud-connected solutions.
 
@@ -70,4 +70,4 @@ I’m always open to:
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" alt="Footer"/>
