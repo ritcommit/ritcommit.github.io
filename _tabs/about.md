@@ -4,66 +4,70 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# 🚀 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Ritesh%20Sharma&fontColor=FFFF">
 
-I’m a Firmware Lead Engineer with over a decade of experience building reliable, production-grade embedded systems—primarily in the electric vehicle (EV) domain. I specialize in designing scalable firmware architectures for Battery Management Systems (BMS), fast EV chargers, and real-time embedded platforms.
+I’m a Firmware Lead Engineer with over a decade of experience in embedded systems. I specialize in designing scalable firmware architectures and solutions for Automotive and Industrial embedded platforms. I am a graduate with Master's degree in `Industrial Automation and Robotics` from [MIT Manipal, Karnataka Campus](https://www.manipal.edu). In addition to the perfect grades and a  **Gold Medal** the college gave me for my academic excellence, it set me on a journey of solving real world problems one microcontroller at a time. In this journey I have worked with companies having successful presence in EV infrastructure, Smart Metering, Industrial Automation and Robotics domains.
 
-Currently, I lead firmware development for high-power EV battery systems and charging infrastructure, working across the full stack—from low-level microcontroller drivers to system architecture, communication protocols, and cloud-connected solutions.
+[Statiq](https://www.statiq.in)
+
+[TinyMesh](https://tinymesh.com)
+
+[Modelicon Infotech](https://www.modelicon.in)
+
+[Robotech Labs](http://robotechlabs.com)
+
+Currently, I lead firmware development for high-power EV battery management systems and charging infrastructure at [Clean Electric](https://www.cleanelectric.in), working across the full stack—from low-level microcontroller drivers to system architecture, communication protocols, and cloud-connected solutions.
 
 ---
 
-## 🔧 What I Do
+## What I Do
 
-- Architect firmware
 - Build scalable, modular embedded software for multi-platform products
 - Lead and mentor firmware teams delivering production-ready solutions
-- Work with industry leaders in formulating plans for next gen technologies
+- Work on and contribute to open source embedded systems solutions
+- Provide career guidance and train future embedded engineers
 
 ---
 
-## 🧠 Technical Focus
+## Check Out My Open Source Work
 
-- Embedded C/C++ and system-level design  
-- Microcontrollers 
-- RTOS 
-- Communication protocols   
-- EV systems: BMS, charging infrastructure, diagnostics  
-- Embedded Linux 
+> Don't forget to shine a star ✨ on the repo
 
----
+### [opcua-modbus-gateway](https://github.com/ritcommit/opcua-modbus-gateway)
 
-## ⚡ What Sets Me Apart
+- A lightweight, configurable gateway written in C that connects to Modbus RTU/TCP devices, reads their registers, and exposes them as OPC UA nodes
+- Built using libmodbus and open62541
+- Modbus TCP and RTU support.
+- No code data customisation using a `config.json` file
 
-I don’t just write firmware—I design systems that scale.
+### [ritJson](https://github.com/ritcommit/ritJson)
 
-My work focuses on bridging the gap between:
-- Prototype and production  
-- Hardware constraints and software flexibility  
-- Real-time systems and modern connected architectures  
+- Lightweight JSON serializer for MCUs
+- Converts a pair of keys and values of various datatypes into a JSON string
+- 2 file library
 
-I’ve worked in fast-paced startup environments, delivering multiple products under tight timelines while maintaining code quality, modularity, and long-term maintainability.
+### [miku](https://github.com/ritcommit/miku)
 
----
+- An open source esp8266 based smart air purifier
+- It can be controlled via its dedicated web app hosted locally
+- Ultra lightweight and simple UI, no navigation required
+- UI suitable for laptops and mobile devices
 
-## 🌱 Current Focus
+### [a7672s-connect](https://github.com/ritcommit/a7672s-connect)
 
-I’m actively transitioning deeper into Embedded Linux, exploring:
-
-- Board bring-up and BSP development  
-- Device driver development  
-- Bootloaders and kernel customization  
-- System-level architecture for next-gen EV platforms  
+- Simcom A7672S 4G LTE + GNSS + BLE module MQTT interface with Raspberry Pi and Esp32
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 I’m always open to:
 
-- Collaborating on embedded/EV projects  
+- Collaborating on open source/commercial embedded projects  
 - Discussing firmware architecture and system design  
 - Mentoring engineers transitioning into embedded systems  
-- Exploring opportunities in Embedded Linux and advanced EV platforms  
+- Exploring opportunities in Embedded Systems  
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
