@@ -8,7 +8,7 @@ order: 4
 
 I’m a Firmware Lead Engineer with over a decade of experience in embedded systems. I specialize in designing scalable firmware architectures and solutions for Automotive and Industrial embedded platforms. I graduated from [MIT Manipal, Karnataka Campus](https://www.manipal.edu) with perfect grades and a  **Gold Medal**. 
 
-Master's degree in `Industrial Automation and Robotics` set me on a journey of solving real world problems one microcontroller at a time. In this journey I have worked with companies having successful presence in EV infrastructure, Smart Metering, Industrial Automation and Robotics domains.
+Master's degree in `Industrial Automation and Robotics` set me on a journey of solving real world problems one microcontroller at a time. In this journey I have worked with the following companies having successful presence in EV infrastructure, Smart Metering, Industrial Automation and Robotics domains.
 
 [Statiq](https://www.statiq.in)
 
@@ -21,14 +21,13 @@ Master's degree in `Industrial Automation and Robotics` set me on a journey of s
 Currently, I lead firmware development for high-power EV battery management systems and charging infrastructure at [Clean Electric](https://www.cleanelectric.in), working across the full stack—from low-level microcontroller drivers to system architecture, communication protocols, and cloud-connected solutions.
 
 **Technologies I have worked on:**
-- 18S BMS for 15-18kW LFP batteries (Automotive)
-- 14S BMS for 2.5kW NMC batteries (Automotive)
+- BMS for 2.5kW-18kW NMC and LFP batteries (Automotive)
 - 86kW BESS as backup for 60kW CCS2 chargers (Enterprise Bakcup Systems)
 - 20kW and 80kW Bharat DC-001 dual-gun DC chargers (EV Infrastructure)
 - 60kW and 120kW CCS2 DC chargers with OCPP (EV Infrastructure)
-- 6LowPAN and WiSUN based SUb GHz mesh IoT networks for smart metering (Advanced Metering Inftrastructure)
+- 6LowPAN and WiSUN based Sub GHz mesh IoT networks for smart metering (Advanced Metering Infrastructure)
 - Audio commands controlled UAV for industry and agriculture applications (Industrial and Agriculture)
-- Virtual Automation Labs using Unity-3D and OpenModelica (Industrial Training)
+- Virtual Automation Labs using Unity-3D and OpenModelica (Industrial Operator Training)
 - Multiprotocol data concentrators for IIoT applications (Industry 4.0)
 - Protocol converters for idustrial applications (Industry 4.0)
 - HIL (Hardware In Loop) and OT (Operator Training) simulators for FMCG and oil & petroleum industry applications (Digital Twins)
